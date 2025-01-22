@@ -1,0 +1,7 @@
+/Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.csproj.AssemblyReference.cache
+/Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.AssemblyInfoInputs.cache
+/Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.AssemblyInfo.cs
+/Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.csproj.CoreCompileInputs.cache
+/Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.MvcApplicationPartsAssemblyInfo.cache
