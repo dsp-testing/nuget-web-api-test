@@ -5,3 +5,4 @@
 /Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.csproj.CoreCompileInputs.cache
 /Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.MvcApplicationPartsAssemblyInfo.cs
 /Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/hariharanthavachelvam/Sites/Dependabot/Core/test/SampleApi/obj/Debug/net8.0/SampleApi.sourcelink.json
